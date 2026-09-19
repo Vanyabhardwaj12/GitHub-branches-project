@@ -10,3 +10,10 @@ To learn how to create and list branches in a GitHub repository.
 
 ## Conclusion
 This project helped me understand how branches work in GitHub.
+
+## GitHub Commit Project
+This project demonstrates how to commit changes in GitHub
+
+## Student Information
+Name: Vanya Bhardwaj
+URN: 2581152
