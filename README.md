@@ -17,3 +17,9 @@ This project demonstrates how to commit changes in GitHub
 ## Student Information
 Name: Vanya Bhardwaj
 URN: 2581152
+
+## Project Objective
+To understand how changes are saved using commits in GitHub.
+
+## Learning Outcome
+I learned how to create, edit, and commit files.
